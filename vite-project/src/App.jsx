@@ -90,7 +90,7 @@ function App() {
         
       </Navbar>
       <h1
-        className="d-flex justify-content-center"
+        className="p-3 d-flex justify-content-center"
         style={{
           color: "white",
           backgroundColor: "black",
